@@ -32,6 +32,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 fun CaptainGame(){
     // remember to keep track of the ship
