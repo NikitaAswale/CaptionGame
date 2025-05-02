@@ -26,9 +26,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             CaptainGameTheme {
-                Scaffold(modifier = Modifier.fillMaxSize()) {
                        CaptainGame()
-                }
             }
         }
     }
